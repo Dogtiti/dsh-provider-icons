@@ -11,7 +11,7 @@
  * a neutral grey. new-api uses the logo from its own repository (Apache-2.0).
  */
 window.__ModuleLoader__.load({
-  id: 'dsh-plugin-provider-icons',
+  id: 'dsh-provider-icons',
   factory(require) {
     /** Provider id -> embedded brand mark. Anything not listed keeps the dot below. */
     const LOGOS = {
