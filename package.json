@@ -1,6 +1,6 @@
 {
-  "name": "dsh-plugin-provider-icons",
-  "version": "0.1.0",
+  "name": "dsh-provider-icons",
+  "version": "0.2.0",
   "type": "module",
   "description": "Shows each provider's brand mark beside the model name in the DeepSeek Harness composer model selector.",
   "keywords": [
@@ -14,10 +14,10 @@
   ],
   "author": "Dogtiti",
   "license": "MIT",
-  "homepage": "https://github.com/Dogtiti/dsh-plugin-provider-icons#readme",
+  "homepage": "https://github.com/Dogtiti/dsh-provider-icons#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dogtiti/dsh-plugin-provider-icons"
+    "url": "https://github.com/Dogtiti/dsh-provider-icons"
   },
   "exports": {
     ".": "./index.js",
@@ -51,5 +51,8 @@
         "@deepseek-ai/dsh-client-ui-conversation"
       ]
     }
+  },
+  "bugs": {
+    "url": "https://github.com/Dogtiti/dsh-provider-icons/issues"
   }
 }
