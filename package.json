@@ -1,6 +1,6 @@
 {
   "name": "dsh-provider-icons",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "type": "module",
   "description": "Shows each provider's brand mark beside the model name in the DeepSeek Harness composer model selector.",
   "keywords": [
